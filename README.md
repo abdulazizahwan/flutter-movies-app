@@ -38,6 +38,6 @@ A new Flutter  Movies Neon application. Designed by Sourasith, Code using Flutte
 
 - Code using Flutter with ❤️ by [Abdul Aziz Ahwan](https://youtube.com/abdulazizahwanID)
 
-###  Movies NeonApp Final UI
+### Movies Neon App Final UI
 
 [![Flutter Movies NeonApp UI Design](/img-ui.png)](https://www.figma.com/community/file/1076511483626225352)
