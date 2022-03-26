@@ -6,6 +6,11 @@ A new Flutter  Movies Neon application. Designed by Sourasith, Code using Flutte
 
 [![Donate with PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](https://paypal.me/abdulazizahwan)
 
+## 🔖 JOIN FLUTTER COURSE 🔖
+_Build real, responsive applications! (Portfolio, E-commerce, Crypto App, Budget Tracker)
+This course is designed for beginner to intermediate developers who want to build their future with Flutter_
+[Checkout Course Now](https://gumroad.com/a/659170419/fqamxr)
+
 ## Watch it on YouTube
 
 - Here => [Watch it on YouTube](https://youtu.be/OmIv8kcb0k4)
