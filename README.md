@@ -13,7 +13,8 @@ This course is designed for beginner to intermediate developers who want to buil
 
 ## Watch it on YouTube
 
-- Here => [Watch it on YouTube](https://youtu.be/OmIv8kcb0k4)
+- PART 1 => [Watch it on YouTube](https://youtu.be/OmIv8kcb0k4)
+- PART 2 => [Watch it on YouTube](https://youtu.be/GdBu6jUtpnc)
 
 **Project Contents**
 
